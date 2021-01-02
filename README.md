@@ -3,8 +3,6 @@
 ![mkrzywda's github stats](https://github-readme-stats.vercel.app/api?username=mkrzywda&show_icons=true&theme=radical)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkrzywda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**mkrzywda/mkrzywda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about graph algorithm, neural networks and federated learning.
 - 📫 How to reach me: [Twitter](https://twitter.com/mackrzywda), [Email](maciej.krzywdaa@gmail.com)
 - 😄 Pronouns: he/him
--->
+
