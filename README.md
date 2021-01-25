@@ -7,9 +7,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [MK Knowledge Graph](https://github.com/mkrzywda/MKKnowledgeGraph)
-- 🌱 I’m currently learning Rust and GraphQL.
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on Graph Data Science/Machine Learning projects
-- 🤔 I’m looking for help with Rust and Haskell Programming.
+- 🤔 I’m looking for help with Graph Neural Network
 - 💬 Ask me about graph algorithm, neural networks and federated learning.
 - 📫 How to reach me: [Twitter](https://twitter.com/mackrzywda), [Email](maciej.krzywdaa@gmail.com)
 - 😄 Pronouns: he/him
