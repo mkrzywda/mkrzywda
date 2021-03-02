@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [MK Knowledge Graph](https://github.com/mkrzywda/MKKnowledgeGraph)
+- 🔭 I’m currently working on [MK Knowledge Graph](https://github.com/mkrzywda/MKKnowledgeGraph), [RUSTFolker](https://github.com/mkrzywda/RUSTFolker) and [GraphsAreAwsome](https://github.com/mkrzywda/GraphsAreAwsome)
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on Graph Data Science/Machine Learning projects
 - 🤔 I’m looking for help with Graph Neural Network
