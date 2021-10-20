@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on improving my skills in Scala Akka, Neural Networks and performance of databases query.
-- 🌱 I’m currently learning RustLang and Scala.
+- 🔭 I’m currently working on improving my skills in Data Science and Deep Learning Area.
+- 🌱 I’m currently learning RustLang.
 - 👯 I’m looking to collaborate on Graph Data Science/Machine Learning projects
 - 🤔 I’m looking for help with Graph Neural Network
 - 💬 Ask me about graph algorithm, neural networks and federated learning.
